@@ -1,10 +1,9 @@
-import DemoComponent from "./DemoComponent";
-
+import MultiStepForm from "./Components/ParentComponent";
 
 function App() {
   return (
     <div>
-   <DemoComponent />
+      <MultiStepForm />
     </div>
   );
 }
